@@ -49,5 +49,8 @@ class GPT21024Dataset(Dataset):
         content = data['article'] + self.tokenizer.encode(self.tokenizer.sep_token) + data['abstract']
         text[:len(content)] = content
         text = torch.tensor(text)
-        sample = {'article': text, 'sum_idx': len(data['article'])}
+        # sample = {'article': text, 'sum_idx': len(data['article'])}
+        sample = {'article': text, 'sum_idx': len(data['article']), 'id': data['id']}
         return sample
+    
+    

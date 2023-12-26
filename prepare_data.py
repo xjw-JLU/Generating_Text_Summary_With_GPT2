@@ -50,8 +50,8 @@ def get_art_abs(lines):
 
 def write_json(i,article, abstract):
 	""" Saves a json file."""
-
-	file = "./gpt2_1024_data/"+str(i)+".json"
+	i += 59288
+	file = "/ssd3/xiaojingwu/Generating_Text_Summary_With_GPT2/CNN/gpt2_1024_data3/"+str(i)+".json"
 	js_example = {}
 	js_example['id'] = i
 	js_example['article'] = article
@@ -109,9 +109,9 @@ if __name__ == '__main__':
 	with open(sys.argv[1],'rb') as f:
 		file_sizes = pickle.load(f)
 	file_names = [file for file,size in file_sizes.items() if size<=1023] #only consider files with total no of tokens less than 1024
-	if sys.argv[1].startswith("cnn"):
+	if sys.argv[1].startswith("CNN"):
 		directory = "cnn_stories_tokenized"
-		os.chdir('/CNN/')
+		os.chdir('./CNN/')
 	else:
 		directory = "dm_stories_tokenized"
 		os.chdir('./DM/')

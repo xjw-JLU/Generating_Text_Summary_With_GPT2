@@ -4,7 +4,8 @@ import os
 import time
 
 import numpy as np
-from transformers import GPT2LMHeadModel,AdamW, WarmupLinearSchedule
+# from transformers import GPT2LMHeadModel,AdamW,WarmupLinearSchedule
+from transformers import GPT2LMHeadModel,AdamW,get_linear_schedule_with_warmup
 from torch.utils.tensorboard import SummaryWriter
 import torch
 from torch.nn import CrossEntropyLoss
@@ -15,6 +16,7 @@ from tqdm import tnrange, tqdm
 from dataset import GPT21024Dataset 
 from utils import add_special_tokens, generate_sample, set_seed
 
+from rouge import Rouge
 
 
 def train(args, model, tokenizer, train_dataset, valid_dataset, ignore_index):
@@ -31,7 +33,7 @@ def train(args, model, tokenizer, train_dataset, valid_dataset, ignore_index):
     train_dl = DataLoader(train_dataset,sampler=train_sampler,batch_size=args.batch_size,num_workers=args.num_workers)
     loss_fct = CrossEntropyLoss(ignore_index=ignore_index) #ignores padding token for loss calculation
     optimizer = AdamW(model.parameters(),lr=args.lr)
-    scheduler = WarmupLinearSchedule(optimizer,100,80000)
+    scheduler = get_linear_schedule_with_warmup(optimizer,100,80000)
 
     global_step = 0
     tr_loss, logging_loss = 0.0, 0.0
@@ -41,7 +43,8 @@ def train(args, model, tokenizer, train_dataset, valid_dataset, ignore_index):
     for _ in train_iterator:
         epoch_iterator = tqdm(train_dl, desc="Training")
         for step, batch in enumerate(epoch_iterator):
-            inputs, labels = torch.tensor(batch['article']), torch.tensor(batch['article'])
+            # inputs, labels = torch.tensor(batch['article']), torch.tensor(batch['article'])
+            inputs, labels = batch['article'].clone().detach(), batch['article'].clone().detach()
             inputs = inputs.to(args.device)
             labels = labels.to(args.device)
             model.train()
@@ -64,17 +67,25 @@ def train(args, model, tokenizer, train_dataset, valid_dataset, ignore_index):
                 writer.add_scalar('loss', (tr_loss - logging_loss)/args.gradient_accumulation_steps, global_step)
                 logging_loss = tr_loss
                 print("loss:", loss.item(), end='\n\n')
+
+                # print("xjw:")
+                # print(shift_logits.shape, shift_labels.shape)
+                # generated_text = shift_labels[0, len(context):].tolist()
+                # text_label = tokenizer.convert_ids_to_tokens(shift_labels,skip_special_tokens=True)
+                # text_label = tokenizer.convert_tokens_to_string(text_label)
+                # print(tokenizer.decode(shift_labels[0]))
+
+
                 if (step + 1)/args.gradient_accumulation_steps == 1.0:
-                	print('After 1st update: ', end='\n\n')
-                	generate_sample(valid_dataset, tokenizer, num=2, eval_step=False,device=args.device)
-                
+                    print('After 1st update: ', end='\n\n')
+                    generate_sample(valid_dataset, tokenizer, model, num=2, eval_step=False, device=args.device)
                 
             if (step + 1) % (10*args.gradient_accumulation_steps) == 0:
                 results = evaluate(args, model, valid_dataset, ignore_index, global_step)
                 for key, value in results.items():
                     writer.add_scalar('eval_{}'.format(key), value, global_step)
                 print('After', global_step+1,'updates: ', end='\n\n')
-                generate_sample(valid_dataset, tokenizer, num=2, eval_step=True,device=args.device)
+                generate_sample(valid_dataset, tokenizer, model, num=2, eval_step=True, device=args.device)
                     
      
 
@@ -100,6 +111,11 @@ def evaluate(args, model, eval_dataset, ignore_index, global_step=None):
     nb_eval_steps = 0
     model.eval()
 
+    rouge = Rouge()
+    rouge_scores = []
+    tokenizer = add_special_tokens()
+
+
     for batch in tqdm(eval_dataloader, desc="Evaluating"):
         inputs, labels = torch.tensor(batch['article']).to(args.device), torch.tensor(batch['article']).to(args.device)
         
@@ -109,9 +125,11 @@ def evaluate(args, model, eval_dataset, ignore_index, global_step=None):
             # only consider loss on reference summary just like seq2seq models
             shift_logits = logits[..., idx:-1, :].contiguous()
             shift_labels = labels[..., idx+1:].contiguous()
+            
             lm_loss = loss_fct(shift_logits.view(-1, shift_logits.size(-1)), shift_labels.view(-1))
             eval_loss += lm_loss.mean().item()
         nb_eval_steps += 1
+
 
     eval_loss = eval_loss / nb_eval_steps
     perplexity = torch.exp(torch.tensor(eval_loss))
@@ -121,8 +139,9 @@ def evaluate(args, model, eval_dataset, ignore_index, global_step=None):
     }
     print("perplexity:", perplexity.item())
 
+
     if global_step:
-    	output_eval_file = os.path.join(eval_output_dir, "eval_results.txt")
+        output_eval_file = os.path.join(eval_output_dir, "eval_results.txt")
         with open(output_eval_file, "a") as f:
             for key in sorted(result.keys()):
                 f.write('\n\n')
@@ -131,16 +150,16 @@ def evaluate(args, model, eval_dataset, ignore_index, global_step=None):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--lr",default=5e-5, type=float, required=True, help="learning rate")
+    parser.add_argument("--lr",default=5e-5, type=float, required=False, help="learning rate")
     parser.add_argument("--seed",default=42, type=int, required=False, help="seed to replicate results")
     parser.add_argument("--n_gpu",default=1, type=int, required=False, help="no of gpu available")
-    parser.add_argument("--gradient_accumulation_steps",default=32, type=int, required=True, help="gradient_accumulation_steps")
-    parser.add_argument("--batch_size",default=1, type=int, required=True, help="batch_size")
+    parser.add_argument("--gradient_accumulation_steps",default=32, type=int, required=False, help="gradient_accumulation_steps")
+    parser.add_argument("--batch_size",default=1, type=int, required=False, help="batch_size")
     parser.add_argument("--num_workers",default=4, type=int, required=False, help="num of cpus available")
-    parser.add_argument("--device",default=torch.device('cpu'), required=False, help="torch.device object")
-    parser.add_argument("--num_train_epochs",default=1, type=int, required=True, help="no of epochs of training")
-    parser.add_argument("--output_dir",default='./output', type=str, required=True, help="path to save evaluation results")
-    parser.add_argument("--model_dir",default='./weights', type=str, required=True, help="path to save trained model")
+    parser.add_argument("--device",default=torch.device('cuda'), required=False, help="torch.device object")
+    parser.add_argument("--num_train_epochs",default=1, type=int, required=False, help="no of epochs of training")
+    parser.add_argument("--output_dir",default='./output', type=str, required=False, help="path to save evaluation results")
+    parser.add_argument("--model_dir",default='./weights', type=str, required=False, help="path to save trained model")
     parser.add_argument("--fp16",default=True, type=bool, required=False, help="whether to use 16-bit (mixed) precision (through NVIDIA apex) instead of 32-bit")
     parser.add_argument("--fp16_opt_level",default='O0', type=str, required=False, help="apex AMP optimization level selected in ['O0', 'O1', 'O2', and 'O3'].")
     parser.add_argument("--max_grad_norm",default=1.0, type=float, help="max gradient norm.")
@@ -150,11 +169,16 @@ def main():
 
     train_data = GPT21024Dataset(args.root_dir,args.ids_file,mode='train',length=3000) #training on only 3000 datasets
     valid_data = GPT21024Dataset(args.root_dir,args.ids_file,mode='valid',length=500)  #validation on only 500 datasets
+    print(len(train_data))
+    print(len(valid_data))
     tokenizer = add_special_tokens()
     ignore_idx = tokenizer.pad_token_id
-    model = GPT2LMHeadModel.from_pretrained('gpt2')
+    model = GPT2LMHeadModel.from_pretrained('/ssd3/xiaojingwu/gpt2')
     model.resize_token_embeddings(len(tokenizer))
+    gpus= [0, 1, 2, 3, 4, 5, 6, 7]
+    # model= torch.nn.DataParallel(model.to(args.device), device_ids=gpus, output_device=gpus[0])
     model.to(args.device)
+
 
     start = time.time()
     train(args, model, tokenizer, train_data, valid_data, ignore_idx)

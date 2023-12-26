@@ -8,7 +8,7 @@ from tqdm import tnrange
 
 def add_special_tokens():
 	""" Returns GPT2 tokenizer after adding separator and padding tokens """
-	tokenizer = GPT2Tokenizer.from_pretrained('gpt2')
+	tokenizer = GPT2Tokenizer.from_pretrained('/ssd3/xiaojingwu/gpt2')
 	special_tokens = {'pad_token':'<|pad|>','sep_token':'<|sep|>'}
 	num_add_toks = tokenizer.add_special_tokens(special_tokens)
 	return tokenizer
@@ -148,6 +148,7 @@ def generate_sample(data, tokenizer, model, num=1, eval_step=False, length=100, 
             num = number of articles for which summaries has to be generated
             eval_step = can be True/False, checks generating during evaluation or not
     """
+    generated_summaries = []
     for i in range(num):
         sample = data[i]
         idx = sample['sum_idx']
@@ -167,3 +168,5 @@ def generate_sample(data, tokenizer, model, num=1, eval_step=False, length=100, 
         else:
             print(tokenizer.decode(context), end='\n\n')
             print("generated_summary", end='\n\n')
+        generated_summaries.append(text)
+    return generated_summaries

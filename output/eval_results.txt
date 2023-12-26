@@ -1,0 +1,2214 @@
+
+
+time = 30/11/2023 11:46:42, perplexity = tensor(3.0432e+35), step = 10
+
+
+time = 30/11/2023 11:47:53, perplexity = tensor(3.1051e+33), step = 10
+
+
+time = 30/11/2023 12:12:12, perplexity = tensor(inf), step = 10
+
+
+time = 30/11/2023 12:18:18, perplexity = tensor(inf), step = 10
+
+
+time = 30/11/2023 12:19:21, perplexity = tensor(1.5016e+33), step = 20
+
+
+time = 30/11/2023 12:20:24, perplexity = tensor(5.8183e+23), step = 30
+
+
+time = 30/11/2023 12:21:27, perplexity = tensor(12500581.), step = 40
+
+
+time = 30/11/2023 12:22:30, perplexity = tensor(52.4994), step = 50
+
+
+time = 30/11/2023 12:23:33, perplexity = tensor(93.3465), step = 60
+
+
+time = 30/11/2023 12:24:36, perplexity = tensor(21.4042), step = 70
+
+
+time = 30/11/2023 12:25:38, perplexity = tensor(13.0236), step = 80
+
+
+time = 30/11/2023 12:26:41, perplexity = tensor(11.3967), step = 90
+
+
+time = 30/11/2023 12:35:57, perplexity = tensor(inf), step = 10
+
+
+time = 30/11/2023 12:37:00, perplexity = tensor(8.6320e+33), step = 20
+
+
+time = 30/11/2023 12:38:03, perplexity = tensor(3.3851e+24), step = 30
+
+
+time = 30/11/2023 12:39:05, perplexity = tensor(8962452.), step = 40
+
+
+time = 30/11/2023 12:40:08, perplexity = tensor(62.6983), step = 50
+
+
+time = 30/11/2023 12:41:11, perplexity = tensor(83.1588), step = 60
+
+
+time = 30/11/2023 12:42:13, perplexity = tensor(26.2854), step = 70
+
+
+time = 30/11/2023 12:43:16, perplexity = tensor(11.7968), step = 80
+
+
+time = 30/11/2023 12:44:19, perplexity = tensor(9.9207), step = 90
+
+
+time = 04/12/2023 18:13:43, perplexity = tensor(1.1251e+36), step = 10
+
+
+time = 04/12/2023 18:14:46, perplexity = tensor(3.7666e+30), step = 20
+
+
+time = 04/12/2023 18:15:49, perplexity = tensor(7.5561e+21), step = 30
+
+
+time = 04/12/2023 18:16:51, perplexity = tensor(1187462.7500), step = 40
+
+
+time = 04/12/2023 18:17:54, perplexity = tensor(51.0583), step = 50
+
+
+time = 04/12/2023 18:23:06, perplexity = tensor(inf), step = 10
+
+
+time = 04/12/2023 18:24:08, perplexity = tensor(8.7659e+33), step = 20
+
+
+time = 04/12/2023 18:25:11, perplexity = tensor(3.3523e+24), step = 30
+
+
+time = 04/12/2023 18:26:14, perplexity = tensor(16404429.), step = 40
+
+
+time = 04/12/2023 18:27:17, perplexity = tensor(50.8425), step = 50
+
+
+time = 04/12/2023 18:28:20, perplexity = tensor(76.6255), step = 60
+
+
+time = 04/12/2023 18:29:23, perplexity = tensor(21.3534), step = 70
+
+
+time = 04/12/2023 18:30:26, perplexity = tensor(14.1126), step = 80
+
+
+time = 04/12/2023 18:31:28, perplexity = tensor(10.0666), step = 90
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 11:56:53, perplexity = tensor(2.5476e+38), step = 10
+
+
+time = 05/12/2023 12:00:46, perplexity = tensor(7.0249e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(5.3539e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(5.8545e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(6.2356e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(5.5404e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(6.2134e+37), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(1.2024e+38), step = 10
+
+
+time = 05/12/2023 12:00:47, perplexity = tensor(6.1821e+37), step = 10
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(2.8492e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(1.3948e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(3.6781e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(2.8809e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(4.3399e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(2.3688e+25), step = 20
+
+
+time = 05/12/2023 12:02:13, perplexity = tensor(3.8949e+25), step = 20
+
+
+time = 05/12/2023 12:02:14, perplexity = tensor(1.4247e+25), step = 20
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(4.0934e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(1.9305e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(1.7369e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(3.5022e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(2.3063e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(4.9992e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(5.6099e+08), step = 30
+
+
+time = 05/12/2023 12:03:40, perplexity = tensor(1.9116e+08), step = 30
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(40.7394), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(36.7952), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(40.5056), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(38.1469), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(40.1120), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(36.0904), step = 40
+
+
+time = 05/12/2023 12:05:06, perplexity = tensor(41.0134), step = 40
+
+
+time = 05/12/2023 12:05:07, perplexity = tensor(42.4133), step = 40
+
+
+time = 05/12/2023 12:06:32, perplexity = tensor(32.5188), step = 50
+
+
+time = 05/12/2023 12:06:32, perplexity = tensor(32.0541), step = 50
+
+
+time = 05/12/2023 12:06:32, perplexity = tensor(38.2802), step = 50
+
+
+time = 05/12/2023 12:06:32, perplexity = tensor(32.8158), step = 50
+
+
+time = 05/12/2023 12:06:33, perplexity = tensor(33.4280), step = 50
+
+
+time = 05/12/2023 12:06:33, perplexity = tensor(33.0511), step = 50
+
+
+time = 05/12/2023 12:06:33, perplexity = tensor(41.5101), step = 50
+
+
+time = 05/12/2023 12:06:34, perplexity = tensor(37.4903), step = 50
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(14.7612), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(14.7253), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(15.3887), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(14.7341), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(14.8022), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(15.5372), step = 60
+
+
+time = 05/12/2023 12:08:00, perplexity = tensor(14.6971), step = 60
+
+
+time = 05/12/2023 12:08:02, perplexity = tensor(16.4630), step = 60
+
+
+time = 05/12/2023 12:09:27, perplexity = tensor(11.3144), step = 70
+
+
+time = 05/12/2023 12:09:27, perplexity = tensor(11.5234), step = 70
+
+
+time = 05/12/2023 12:09:27, perplexity = tensor(11.1912), step = 70
+
+
+time = 05/12/2023 12:09:27, perplexity = tensor(10.9939), step = 70
+
+
+time = 05/12/2023 12:09:27, perplexity = tensor(11.6562), step = 70
+
+
+time = 05/12/2023 12:09:28, perplexity = tensor(11.7826), step = 70
+
+
+time = 05/12/2023 12:09:28, perplexity = tensor(10.9739), step = 70
+
+
+time = 05/12/2023 12:09:30, perplexity = tensor(12.1998), step = 70
+
+
+time = 05/12/2023 12:10:55, perplexity = tensor(9.2839), step = 80
+
+
+time = 05/12/2023 12:10:55, perplexity = tensor(9.5026), step = 80
+
+
+time = 05/12/2023 12:10:56, perplexity = tensor(9.2926), step = 80
+
+
+time = 05/12/2023 12:10:56, perplexity = tensor(9.0937), step = 80
+
+
+time = 05/12/2023 12:10:56, perplexity = tensor(9.4409), step = 80
+
+
+time = 05/12/2023 12:10:56, perplexity = tensor(9.5424), step = 80
+
+
+time = 05/12/2023 12:10:56, perplexity = tensor(9.2005), step = 80
+
+
+time = 05/12/2023 12:10:57, perplexity = tensor(9.8739), step = 80
+
+
+time = 05/12/2023 12:12:22, perplexity = tensor(8.7034), step = 90
+
+
+time = 05/12/2023 12:12:22, perplexity = tensor(8.9373), step = 90
+
+
+time = 05/12/2023 12:12:22, perplexity = tensor(8.7562), step = 90
+
+
+time = 05/12/2023 12:12:23, perplexity = tensor(8.5702), step = 90
+
+
+time = 05/12/2023 12:12:23, perplexity = tensor(8.8555), step = 90
+
+
+time = 05/12/2023 12:12:23, perplexity = tensor(8.9069), step = 90
+
+
+time = 05/12/2023 12:12:23, perplexity = tensor(8.6817), step = 90
+
+
+time = 05/12/2023 12:12:24, perplexity = tensor(9.2904), step = 90
+
+
+time = 05/12/2023 12:13:49, perplexity = tensor(8.3704), step = 100
+
+
+time = 05/12/2023 12:13:49, perplexity = tensor(8.6280), step = 100
+
+
+time = 05/12/2023 12:13:49, perplexity = tensor(8.3667), step = 100
+
+
+time = 05/12/2023 12:13:49, perplexity = tensor(8.2416), step = 100
+
+
+time = 05/12/2023 12:13:49, perplexity = tensor(8.5265), step = 100
+
+
+time = 05/12/2023 12:13:50, perplexity = tensor(8.5401), step = 100
+
+
+time = 05/12/2023 12:13:50, perplexity = tensor(8.3528), step = 100
+
+
+time = 05/12/2023 12:13:51, perplexity = tensor(8.9670), step = 100
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.0228), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.2797), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.0789), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.0013), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.1784), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.2434), step = 110
+
+
+time = 05/12/2023 12:15:16, perplexity = tensor(8.1257), step = 110
+
+
+time = 05/12/2023 12:15:18, perplexity = tensor(8.5325), step = 110
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:23:58, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(2.3726e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(7.1282e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(2.5965e+26), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(1.2249e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(3.4648e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(4.3535e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(2.1035e+27), step = 20
+
+
+time = 05/12/2023 12:25:10, perplexity = tensor(2.8882e+27), step = 20
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(1.3193e+10), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(1.3321e+09), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(1.5455e+10), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(9.6451e+09), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(2.8164e+09), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(1.2008e+10), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(2.2390e+10), step = 30
+
+
+time = 05/12/2023 12:26:22, perplexity = tensor(7.3094e+09), step = 30
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(49.9388), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(33.0713), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(35.8173), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(38.4684), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(48.1105), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(38.7952), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(50.7584), step = 40
+
+
+time = 05/12/2023 12:27:34, perplexity = tensor(43.1424), step = 40
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(68.8444), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(40.4478), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(39.6130), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(48.5642), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(54.0507), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(77.0644), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(55.2954), step = 50
+
+
+time = 05/12/2023 12:28:46, perplexity = tensor(60.0239), step = 50
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(14.6664), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(17.6703), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(14.4497), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(15.9072), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(15.1166), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(20.2107), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(16.9337), step = 60
+
+
+time = 05/12/2023 12:29:58, perplexity = tensor(18.4687), step = 60
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(11.2122), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(10.7016), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(10.0410), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(10.6820), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(10.3744), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(10.9440), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(12.5956), step = 70
+
+
+time = 05/12/2023 12:31:10, perplexity = tensor(11.9879), step = 70
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(9.4050), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(9.9017), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(8.9131), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(9.5102), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(9.2165), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(9.7455), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(11.2174), step = 80
+
+
+time = 05/12/2023 12:32:22, perplexity = tensor(10.4771), step = 80
+
+
+time = 05/12/2023 12:33:33, perplexity = tensor(8.5580), step = 90
+
+
+time = 05/12/2023 12:33:33, perplexity = tensor(9.0829), step = 90
+
+
+time = 05/12/2023 12:33:33, perplexity = tensor(8.5466), step = 90
+
+
+time = 05/12/2023 12:33:33, perplexity = tensor(8.0503), step = 90
+
+
+time = 05/12/2023 12:33:33, perplexity = tensor(8.5298), step = 90
+
+
+time = 05/12/2023 12:33:34, perplexity = tensor(8.9401), step = 90
+
+
+time = 05/12/2023 12:33:34, perplexity = tensor(9.7135), step = 90
+
+
+time = 05/12/2023 12:33:34, perplexity = tensor(9.2797), step = 90
+
+
+time = 05/12/2023 12:34:45, perplexity = tensor(8.2517), step = 100
+
+
+time = 05/12/2023 12:34:45, perplexity = tensor(8.6766), step = 100
+
+
+time = 05/12/2023 12:34:45, perplexity = tensor(7.7186), step = 100
+
+
+time = 05/12/2023 12:34:45, perplexity = tensor(8.2205), step = 100
+
+
+time = 05/12/2023 12:34:45, perplexity = tensor(8.1889), step = 100
+
+
+time = 05/12/2023 12:34:46, perplexity = tensor(8.5474), step = 100
+
+
+time = 05/12/2023 12:34:46, perplexity = tensor(9.2409), step = 100
+
+
+time = 05/12/2023 12:34:46, perplexity = tensor(8.9683), step = 100
+
+
+time = 05/12/2023 12:35:57, perplexity = tensor(8.0633), step = 110
+
+
+time = 05/12/2023 12:35:57, perplexity = tensor(8.3990), step = 110
+
+
+time = 05/12/2023 12:35:57, perplexity = tensor(7.4769), step = 110
+
+
+time = 05/12/2023 12:35:57, perplexity = tensor(7.9784), step = 110
+
+
+time = 05/12/2023 12:35:57, perplexity = tensor(7.9713), step = 110
+
+
+time = 05/12/2023 12:35:58, perplexity = tensor(8.9204), step = 110
+
+
+time = 05/12/2023 12:35:58, perplexity = tensor(8.3558), step = 110
+
+
+time = 05/12/2023 12:35:58, perplexity = tensor(8.6572), step = 110
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(7.9085), step = 120
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(8.2015), step = 120
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(7.2877), step = 120
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(7.8161), step = 120
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(7.8034), step = 120
+
+
+time = 05/12/2023 12:37:09, perplexity = tensor(8.6452), step = 120
+
+
+time = 05/12/2023 12:37:10, perplexity = tensor(8.1743), step = 120
+
+
+time = 05/12/2023 12:37:10, perplexity = tensor(8.4055), step = 120
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(8.0533), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(7.7750), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(7.1486), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(7.6228), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(7.6607), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(8.4075), step = 130
+
+
+time = 05/12/2023 12:38:21, perplexity = tensor(8.0277), step = 130
+
+
+time = 05/12/2023 12:38:22, perplexity = tensor(8.2622), step = 130
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.6574), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.9093), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.0541), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.5186), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.5292), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(7.8935), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(8.2239), step = 140
+
+
+time = 05/12/2023 12:39:33, perplexity = tensor(8.1375), step = 140
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(7.5374), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(7.7726), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(6.9393), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(7.4088), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(7.4182), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(7.7859), step = 150
+
+
+time = 05/12/2023 12:40:45, perplexity = tensor(8.0789), step = 150
+
+
+time = 05/12/2023 12:40:46, perplexity = tensor(8.0141), step = 150
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.4600), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.6599), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(6.8498), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.3261), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.3288), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.6855), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.9897), step = 160
+
+
+time = 05/12/2023 12:41:57, perplexity = tensor(7.9314), step = 160
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.4238), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(6.8050), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.5665), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.2803), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.2846), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.9166), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.6502), step = 170
+
+
+time = 05/12/2023 12:43:09, perplexity = tensor(7.8653), step = 170
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(7.5056), step = 180
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(7.3978), step = 180
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(6.7653), step = 180
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(7.2278), step = 180
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(7.2528), step = 180
+
+
+time = 05/12/2023 12:44:20, perplexity = tensor(7.8416), step = 180
+
+
+time = 05/12/2023 12:44:21, perplexity = tensor(7.5938), step = 180
+
+
+time = 05/12/2023 12:44:21, perplexity = tensor(7.8182), step = 180
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.3299), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(6.6910), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.4247), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.2037), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.1523), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.7974), step = 190
+
+
+time = 05/12/2023 12:45:32, perplexity = tensor(7.5185), step = 190
+
+
+time = 05/12/2023 12:45:33, perplexity = tensor(7.7464), step = 190
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.2623), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.3763), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(6.6660), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.1113), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.1078), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.6898), step = 200
+
+
+time = 05/12/2023 12:46:44, perplexity = tensor(7.4538), step = 200
+
+
+time = 05/12/2023 12:46:45, perplexity = tensor(7.6628), step = 200
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.2035), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.3052), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(6.5884), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.0424), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.0521), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.6471), step = 210
+
+
+time = 05/12/2023 12:47:56, perplexity = tensor(7.3889), step = 210
+
+
+time = 05/12/2023 12:47:57, perplexity = tensor(7.6134), step = 210
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:41:23, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(4.9122e+28), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(1.6873e+29), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(9.8356e+27), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(3.8258e+28), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(1.5791e+29), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(1.5726e+28), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(3.6298e+28), step = 20
+
+
+time = 05/12/2023 15:42:55, perplexity = tensor(9.2907e+28), step = 20
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(7.1907e+09), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(7.3780e+08), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(5.8532e+09), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(2.3879e+10), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(7.6481e+09), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(2.9433e+10), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(1.0116e+10), step = 30
+
+
+time = 05/12/2023 15:44:28, perplexity = tensor(1.5852e+10), step = 30
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(35.4548), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(33.3811), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(29.7557), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(35.6128), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(32.4197), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(33.8850), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(32.2206), step = 40
+
+
+time = 05/12/2023 15:45:40, perplexity = tensor(36.7688), step = 40
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(37.1394), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(49.0424), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(39.5052), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(45.0429), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(45.2794), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(49.9387), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(47.9167), step = 50
+
+
+time = 05/12/2023 15:46:52, perplexity = tensor(48.8987), step = 50
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(14.7777), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(16.8827), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(13.7184), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(16.4082), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(14.4399), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(14.8256), step = 60
+
+
+time = 05/12/2023 15:48:03, perplexity = tensor(15.7592), step = 60
+
+
+time = 05/12/2023 15:48:04, perplexity = tensor(16.1458), step = 60
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(12.0380), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(11.4720), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(10.4195), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(12.1685), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(10.7621), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(10.9980), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(11.8869), step = 70
+
+
+time = 05/12/2023 15:49:15, perplexity = tensor(12.0495), step = 70
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(9.5624), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(8.8725), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(10.1334), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(8.9909), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(10.0252), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(9.6058), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(9.8582), step = 80
+
+
+time = 05/12/2023 15:50:27, perplexity = tensor(10.0271), step = 80
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(8.6707), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(9.2152), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(8.0387), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(9.1717), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(8.2147), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(9.0334), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(8.7810), step = 90
+
+
+time = 05/12/2023 15:51:38, perplexity = tensor(8.9936), step = 90
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.4539), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.8902), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(7.8658), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.8764), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(7.9488), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.7124), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.5579), step = 100
+
+
+time = 05/12/2023 15:52:50, perplexity = tensor(8.7927), step = 100
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.2813), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.6226), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(7.6673), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(7.7917), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.6108), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.3004), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.5164), step = 110
+
+
+time = 05/12/2023 15:54:02, perplexity = tensor(8.5676), step = 110
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(8.0376), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(7.3647), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(8.3498), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(8.3792), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(7.6305), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(7.9830), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(8.3277), step = 120
+
+
+time = 05/12/2023 15:55:13, perplexity = tensor(8.2403), step = 120
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(7.8978), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(8.1425), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(7.6519), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(7.2073), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(8.1160), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(8.3223), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(8.0766), step = 130
+
+
+time = 05/12/2023 15:56:25, perplexity = tensor(8.1542), step = 130
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.1794), step = 140
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.9682), step = 140
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.7620), step = 140
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.5749), step = 140
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.6088), step = 140
+
+
+time = 05/12/2023 15:57:36, perplexity = tensor(7.9804), step = 140
+
+
+time = 05/12/2023 15:57:37, perplexity = tensor(8.2051), step = 140
+
+
+time = 05/12/2023 15:57:37, perplexity = tensor(8.4042), step = 140
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.8501), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.6272), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.0179), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.4612), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.4994), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(8.0712), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(7.8583), step = 150
+
+
+time = 05/12/2023 15:58:48, perplexity = tensor(8.2258), step = 150
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.5573), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(6.9233), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.7287), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.3714), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.3894), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.9737), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(7.7476), step = 160
+
+
+time = 05/12/2023 16:00:00, perplexity = tensor(8.0914), step = 160
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.4934), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(6.8687), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.3415), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.6650), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.3366), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.7107), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(7.9187), step = 170
+
+
+time = 05/12/2023 16:01:11, perplexity = tensor(8.0261), step = 170
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.4645), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(6.7959), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.5985), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.3068), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.2716), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.6362), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.8473), step = 180
+
+
+time = 05/12/2023 16:02:23, perplexity = tensor(7.9204), step = 180
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.4139), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(6.7301), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.5181), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.1952), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.2649), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.7725), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.5514), step = 190
+
+
+time = 05/12/2023 16:03:34, perplexity = tensor(7.8349), step = 190
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.3417), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.4620), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(6.7004), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.1393), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.1401), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.6903), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.4922), step = 200
+
+
+time = 05/12/2023 16:04:46, perplexity = tensor(7.7448), step = 200
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.2929), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.3846), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(6.6262), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.0668), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.0865), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.4246), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.6776), step = 210
+
+
+time = 05/12/2023 16:05:57, perplexity = tensor(7.6390), step = 210
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:15:41, perplexity = tensor(inf), step = 10
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(8.7593e+25), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(9.9796e+24), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(2.4618e+26), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(1.0280e+26), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(1.6104e+26), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(5.1160e+25), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(1.0069e+26), step = 20
+
+
+time = 05/12/2023 16:16:54, perplexity = tensor(1.3051e+26), step = 20
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(2.9753e+09), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(3.0712e+09), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(3.5962e+08), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(2.9146e+09), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(4.5712e+09), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(1.9619e+09), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(6.9472e+08), step = 30
+
+
+time = 05/12/2023 16:18:06, perplexity = tensor(1.6047e+09), step = 30
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(35.0073), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(36.4731), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(45.0525), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(32.5339), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(40.1248), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(36.4983), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(46.7759), step = 40
+
+
+time = 05/12/2023 16:19:20, perplexity = tensor(46.6167), step = 40
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(35.5053), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(36.2590), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(61.3983), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(43.5778), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(47.5150), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(47.4518), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(64.9751), step = 50
+
+
+time = 05/12/2023 16:20:32, perplexity = tensor(51.3488), step = 50
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(3.9618e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(1.2842e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(5.2476e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(1.7050e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(1.7519e+38), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(5.8806e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(2.2090e+37), step = 10
+
+
+time = 05/12/2023 18:12:20, perplexity = tensor(3.4678e+37), step = 10
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(6.5206e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(3.0931e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(3.2570e+23), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(2.6459e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(1.6895e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(4.5818e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(4.1595e+24), step = 20
+
+
+time = 05/12/2023 18:13:33, perplexity = tensor(3.4877e+24), step = 20
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(4.7910e+08), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(5.4671e+08), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(70329824.), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(4.2466e+08), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(3.3981e+08), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(5.1999e+08), step = 30
+
+
+time = 05/12/2023 18:14:47, perplexity = tensor(8.7608e+08), step = 30
+
+
+time = 05/12/2023 18:14:48, perplexity = tensor(1.6362e+08), step = 30
+
+
+time = 05/12/2023 18:21:04, perplexity = tensor(5.8206e+37), step = 10
+
+
+time = 05/12/2023 18:21:04, perplexity = tensor(1.3478e+37), step = 10
+
+
+time = 05/12/2023 18:21:04, perplexity = tensor(2.5108e+37), step = 10
+
+
+time = 05/12/2023 18:21:05, perplexity = tensor(9.5695e+36), step = 10
+
+
+time = 05/12/2023 18:21:05, perplexity = tensor(2.2279e+37), step = 10
+
+
+time = 05/12/2023 18:21:05, perplexity = tensor(5.1103e+37), step = 10
+
+
+time = 05/12/2023 18:22:11, perplexity = tensor(4.4269e+37), step = 10
+
+
+time = 05/12/2023 18:22:14, perplexity = tensor(4.1782e+37), step = 10
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(2.7947e+26), step = 20
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(3.0766e+26), step = 20
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(1.1778e+26), step = 20
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(2.0305e+26), step = 20
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(6.2991e+25), step = 20
+
+
+time = 05/12/2023 18:25:47, perplexity = tensor(3.0896e+26), step = 20
+
+
+time = 05/12/2023 18:26:54, perplexity = tensor(1.7081e+26), step = 20
+
+
+time = 05/12/2023 18:26:57, perplexity = tensor(7.9845e+25), step = 20
+
+
+time = 05/12/2023 18:30:31, perplexity = tensor(13048875.), step = 30
+
+
+time = 05/12/2023 18:30:31, perplexity = tensor(13920054.), step = 30
+
+
+time = 05/12/2023 18:30:31, perplexity = tensor(10769969.), step = 30
+
+
+time = 05/12/2023 18:30:32, perplexity = tensor(13481695.), step = 30
+
+
+time = 05/12/2023 18:30:32, perplexity = tensor(8674380.), step = 30
+
+
+time = 05/12/2023 18:30:32, perplexity = tensor(18818032.), step = 30
+
+
+time = 05/12/2023 18:31:38, perplexity = tensor(17744218.), step = 30
+
+
+time = 05/12/2023 18:31:42, perplexity = tensor(7957577.), step = 30
+
+
+time = 05/12/2023 18:35:17, perplexity = tensor(26.2015), step = 40
+
+
+time = 05/12/2023 18:35:17, perplexity = tensor(26.7029), step = 40
+
+
+time = 05/12/2023 18:35:17, perplexity = tensor(26.2843), step = 40
+
+
+time = 05/12/2023 18:35:17, perplexity = tensor(26.5480), step = 40
+
+
+time = 05/12/2023 18:35:17, perplexity = tensor(24.9647), step = 40
+
+
+time = 05/12/2023 18:35:18, perplexity = tensor(28.5833), step = 40
+
+
+time = 05/12/2023 18:36:24, perplexity = tensor(26.4563), step = 40
+
+
+time = 05/12/2023 18:36:28, perplexity = tensor(26.0406), step = 40
+
+
+time = 05/12/2023 18:40:04, perplexity = tensor(37.3034), step = 50
+
+
+time = 05/12/2023 18:40:04, perplexity = tensor(37.8068), step = 50
+
+
+time = 05/12/2023 18:40:04, perplexity = tensor(36.7827), step = 50
+
+
+time = 05/12/2023 18:40:05, perplexity = tensor(40.3365), step = 50
+
+
+time = 05/12/2023 18:40:05, perplexity = tensor(36.0678), step = 50
+
+
+time = 05/12/2023 18:40:05, perplexity = tensor(44.5392), step = 50
+
+
+time = 05/12/2023 18:41:11, perplexity = tensor(36.8027), step = 50
+
+
+time = 05/12/2023 18:41:15, perplexity = tensor(35.4980), step = 50
+
+
+time = 05/12/2023 18:44:51, perplexity = tensor(13.4172), step = 60
+
+
+time = 05/12/2023 18:44:51, perplexity = tensor(13.1210), step = 60
+
+
+time = 05/12/2023 18:44:51, perplexity = tensor(13.4668), step = 60
+
+
+time = 05/12/2023 18:44:51, perplexity = tensor(13.3270), step = 60
+
+
+time = 05/12/2023 18:44:52, perplexity = tensor(13.4769), step = 60
+
+
+time = 05/12/2023 18:44:52, perplexity = tensor(13.6557), step = 60
+
+
+time = 05/12/2023 18:45:58, perplexity = tensor(13.0838), step = 60
+
+
+time = 05/12/2023 18:46:01, perplexity = tensor(13.4238), step = 60
+
+
+time = 05/12/2023 18:49:38, perplexity = tensor(10.5929), step = 70
+
+
+time = 05/12/2023 18:49:39, perplexity = tensor(10.8013), step = 70
+
+
+time = 05/12/2023 18:49:39, perplexity = tensor(10.8399), step = 70
+
+
+time = 05/12/2023 18:49:39, perplexity = tensor(10.4652), step = 70
+
+
+time = 05/12/2023 18:49:39, perplexity = tensor(10.8311), step = 70
+
+
+time = 05/12/2023 18:49:39, perplexity = tensor(10.6920), step = 70
+
+
+time = 05/12/2023 18:50:45, perplexity = tensor(10.4133), step = 70
+
+
+time = 05/12/2023 18:50:49, perplexity = tensor(10.6734), step = 70
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.8729), step = 80
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.9467), step = 80
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.9492), step = 80
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.6445), step = 80
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.7805), step = 80
+
+
+time = 05/12/2023 18:54:27, perplexity = tensor(8.8283), step = 80
+
+
+time = 05/12/2023 18:55:33, perplexity = tensor(8.7815), step = 80
+
+
+time = 05/12/2023 19:10:38, perplexity = tensor(9.0065), step = 80
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.3649), step = 90
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.3355), step = 90
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.4042), step = 90
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.1000), step = 90
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.2878), step = 90
+
+
+time = 05/12/2023 19:17:52, perplexity = tensor(8.3137), step = 90
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:27, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 03:05:29, perplexity = tensor(inf), step = 10
+
+
+time = 06/12/2023 10:05:02, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:02, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:02, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:02, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:03, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:03, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:03, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:05:03, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:10, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:10, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:08:11, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:09:02, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:10:49, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:10:50, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:11:41, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:41, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:41, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:42, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:42, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:42, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:42, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:11:42, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:13:31, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:31, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:31, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:31, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:31, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:32, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:32, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:13:32, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:18:00, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:35, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:19:36, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:20:26, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:20:27, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 10:21:18, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:19, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:21:20, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 10:41:14, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:47, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:48, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:48, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:48, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:48, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:49, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:49, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:46:49, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:50:27, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:53:04, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:05, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:05, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:05, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:06, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:06, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:06, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:53:07, perplexity = tensor(inf), step = 2
+
+
+time = 06/12/2023 11:55:47, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:47, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:47, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:48, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:48, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:48, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:48, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:55:51, perplexity = tensor(inf), step = 3
+
+
+time = 06/12/2023 11:59:25, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:26, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 11:59:27, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:19, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:20, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:21, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:21, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:21, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:21, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:22, perplexity = tensor(inf), step = 1
+
+
+time = 06/12/2023 12:25:22, perplexity = tensor(inf), step = 1
